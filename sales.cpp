@@ -13,7 +13,7 @@ int main(){
   std::cout << "You have earned $" << totalSales << " in total" << std::endl;
   std::cout << "You owe $" << stateTax << " in state tax" << std::endl;
   std::cout << "You owe $" << countyTax << " in county tax" << std::endl;
-  std::cout << "In total, you owe $" << totalTax << "in tax" << std::endl;
+  std::cout << "In total, you owe $" << totalTax << " in tax" << std::endl;
 
   return 0;
 
